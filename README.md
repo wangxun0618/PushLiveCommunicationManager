@@ -1,1 +1,2 @@
 PushKit+LiveCommunicationKit
+类似微信在iOS 17.4+上使用它来优化语音接听体验。PushKit通常用于处理VoIP推送，而LiveCommunicationKit是苹果新推出的框架，用于替代或补充CallKit。
